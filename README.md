@@ -66,10 +66,13 @@ The system uses a **Hybrid Data Implementation**:
     python -m streamlit run app.py
     ```
 
-## 👥 Contributors
+## Team
 
-*   **Sanjeev M** - *Lead Architect & AI Logic*
-*   **Harish Balaji** - *AI Engineer*
+This project was collaboratively developed by:
+
+- **Gayatri Ramasamy**
+- **Sanjeev M.**
+- **Harish Balaji**
 
 ---
 *Built for the Future of Drug Safety.*
