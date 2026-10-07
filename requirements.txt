@@ -1,0 +1,8 @@
+pathway[all]
+streamlit
+pandas
+plotly
+watchdog
+faker
+python-dotenv
+openai
